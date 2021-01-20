@@ -1,4 +1,4 @@
-Fork from reddit.com/r/TinderData
+Fork from [reddit.com/r/TinderData](https://www.reddit.com/r/TinderData/comments/dcv4d5/i_made_python_script_that_shows_your_tinder_data/)
 
 ### Usage
 
